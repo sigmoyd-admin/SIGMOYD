@@ -6,9 +6,6 @@ import {
   benefitImage2,
   benefitImage3,
   benefitImage4,
-  benefitImage5,
-  benefitImage6,
-  benefitImage7,
   chromecast,
   companyLogo1,
   companyLogo2,
@@ -58,27 +55,22 @@ export const navigation = [
     url: "#how-to-use",
   },
   {
-    id: "2",
-    title: "Pricing",
-    url: "#pricing",
-  },
-  {
     id: "3",
     title: "Roadmap",
     url: "#roadmap",
   },
-  {
-    id: "4",
-    title: "New account",
-    url: "#signup",
-    onlyMobile: true,
-  },
-  {
-    id: "5",
-    title: "Sign in",
-    url: "#login",
-    onlyMobile: true,
-  },
+  // {
+  //   id: "4",
+  //   title: "New account",
+  //   url: "#signup",
+  //   onlyMobile: true,
+  // },
+  // {
+  //   id: "5",
+  //   title: "Sign in",
+  //   url: "#login",
+  //   onlyMobile: true,
+  // },
 ];
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
@@ -112,7 +104,7 @@ export const roadmap = [
   {
     id: "0",
     title: "Marketing",
-    text: "From lead management to custom communications and CRM to lead management, automation will help your marketing team deliver more value.",
+    text: "Streamline your marketing efforts with automation—from lead management to personalized communications and CRM integration. Empower your team to work smarter, enhance engagement, and drive more value effortlessly.",
     date: "January 2024",
     status: "done",
     imageUrl: roadmap1,
@@ -121,7 +113,7 @@ export const roadmap = [
   {
     id: "1",
     title: "Information Technology",
-    text: "Achieve more with less and scale seamlessly by rolling out automation - from incident management and AI integration to team communication.",
+    text: "Maximize efficiency and scale effortlessly with automation—streamline incident management, integrate AI, and enhance team communication.",
     date: "May 2024",
     status: "progress",
     imageUrl: roadmap2,
@@ -129,7 +121,7 @@ export const roadmap = [
   {
     id: "2",
     title: "Sales",
-    text: "Clear the way to meeting your revenue targets. Automate lead management, outreach data synchronization, reporting and many other essential sales activities.",
+    text: "Accelerate revenue growth by automating lead management, outreach, data synchronization, reporting, and other essential sales tasks.",
     date: "June 2024",
     status: "progress",
     imageUrl: roadmap3,
@@ -137,7 +129,7 @@ export const roadmap = [
   {
     id: "3",
     title: "Customer Experience",
-    text: "Deliver a smoother CX than you ever imagined by automating onboarding, records management, SLAs, support management and more.",
+    text: "Deliver an exceptional customer journey with automation. Streamline onboarding, manage records efficiently, enforce SLAs, and optimize support workflows.",
     date: "March 2024",
     status: "done",
     imageUrl: roadmap4,
@@ -261,16 +253,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Fast responding",
-    text: "Visualize and build at speed - whether setting up a single process or transforming your entire business model.",
+    title: "Instant Execution",
+    text: "Design and deploy seamlessly—whether streamlining a single workflow or revolutionizing your entire business approach.",
     backgroundUrl: "./assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Improve everyday",
-    text: "From enabling AI in a workflow to automating processes, Make's visual platform gives you the power to speed innovation.",
+    title: "Evolve Every Day",
+    text: "Enhance workflows with AI and automation—Make’s intuitive platform empowers you to accelerate innovation effortlessly.",
     backgroundUrl: "./assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage3,
@@ -278,8 +270,8 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
-    text: "With visual-first automation, teams can collaborate to design, refine, share their work and deploy faster.",
+    title: "Seamless Connectivity",
+    text: "Leverage visual automation to collaborate, refine, and deploy workflows faster—wherever your team works.",
     backgroundUrl: "./assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage4,

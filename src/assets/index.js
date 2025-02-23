@@ -1,7 +1,7 @@
-import brainmaster from "./brainmaster.svg";
+import brainmaster from "./sigmoyd_logo.svg";
 import check from "./check.svg";
-import brainmasterSymbol from "./brainmaster-symbol.svg";
-import brainmasterWhiteSymbol from "./brainmaster-symbol-white.svg";
+import brainmasterSymbol from "./brainmaster-symbol.png";
+import brainmasterWhiteSymbol from "./brainmaster-symbol.png";
 import play from "./play.svg";
 import gradient from "./gradient.png";
 import smallSphere from "./4-small.png";
@@ -22,7 +22,7 @@ import loading from "./loading.png";
 import background from "./background.jpg";
 
 import curve from "./hero/curve.png";
-import robot from "./hero/robot.jpg";
+import robot from "./hero/Agents Are Coming Soon.png";
 import heroBackground from "./hero/hero-background.png";
 
 import curve1 from "./collaboration/curve-1.svg";
@@ -36,7 +36,7 @@ import protopie from "./collaboration/protopie.png";
 import raindrop from "./collaboration/raindrop.png";
 import slack from "./collaboration/slack.png";
 
-import service1 from "./services/service-1.png";
+import service1 from "./services/service-1.jpg";
 import service2 from "./services/service-2.png";
 import service3 from "./services/service-3.png";
 
@@ -67,9 +67,9 @@ import benefitIcon1 from "./benefits/icon-1.svg";
 import benefitIcon2 from "./benefits/icon-2.svg";
 import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
-import benefitImage2 from "./benefits/image-2.png";
-import benefitImage3 from "./benefits/image-3.webp";
-import benefitImage4 from "./benefits/image-4.webp";
+import benefitImage2 from "./benefits/image-2.jpg";
+import benefitImage3 from "./benefits/image-3.jpg";
+import benefitImage4 from "./benefits/image-4.jpg";
 import benefitImage5 from "./benefits/image-5.png";
 import benefitImage6 from "./benefits/image-6.png";
 import benefitImage7 from "./benefits/image-7.png";

@@ -69,7 +69,7 @@ const Services = () => {
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-n-8/0 to-n-8/90 lg:p-15">
                 <h3 className="h4 mb-4">Security and Governance</h3>
                 <p className="body-2 mb-[3rem] text-n-3">
-                Make helps you to keep your data secure with built-in GDPR and SOC2 Type 1 compliance, encryption, and single sign-on (SSO).
+                Make secures your data with GDPR, SOC2 Type 1 compliance, encryption, and SSO.
                 </p>
               </div>
               <PhotoChatMessage />
@@ -77,7 +77,7 @@ const Services = () => {
             {/* Service 3 */}
             <div className="p-4 bg-n-7 rounded-3xl overflow-hidden lg:min-h-[46rem]">
               <div className="py-12 px-4 xl:px-8">
-                <h3 className="h4 mb-4">Automation for Enterprises</h3>
+                <h3 className="h4 mb-4">Enterprise-Grade Automation</h3>
                 <p className="body-2 mb-[2rem] text-n-3">
                 Our Enterprise plan offers low-code automation, enhanced security, and 24/7 support.
                 </p>
