@@ -22,7 +22,7 @@ const Hero = () => {
       <div className="container realtive" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-          Seamless automation you can Visualize, Adapt. and Expand  {` `}
+          Seamless automation you can Visualize, Adapt, and Expand  {` `}
             <span className="inline-block relative">
             Effort<span className="text-purple-500">lessly</span>
               {" "}
@@ -36,7 +36,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-          Unlock your business's true power with Make's easy-to-use no-code automation platform.
+          Unlock your full potential with Sigmoyd's prompt based easy-to-use no-code automation platform.
           </p>
           <Button href="/pricing" white>
             Get Started
