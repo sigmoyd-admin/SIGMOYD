@@ -22,9 +22,9 @@ const Hero = () => {
       <div className="container realtive" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-          Seamless automation you can Visualize, Adapt, and Expand  {` `}
+          Build AI Agents & Workflows in Seconds - Just with   {` `}
             <span className="inline-block relative">
-            Effort<span className="text-purple-500">lessly</span>
+            <span className="text-purple-500"> Prompt</span>
               {" "}
               <img
                 src={curve}
@@ -68,7 +68,7 @@ const Hero = () => {
                 <ScrollParallax isAbsolutelyPositioned>
                   <Notification
                     className="hidden absolute -right-[5.5rem] bottom-[11rem] w-[18rem] xl:flex"
-                    title="Code generation"
+                    title="Lead Generation"
                   />
                 </ScrollParallax>
               </div>

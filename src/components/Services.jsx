@@ -17,7 +17,7 @@ const Services = () => {
       <div className="container">
         <Heading
           title="Powering Automation & Innovation"
-          text="Make streamlines processes and drives innovation with automation."
+          text="Trust your agent to perform in the background while you innovate."
         />
 
         <div className="relative">
@@ -35,7 +35,7 @@ const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h3 className="h4 mb-4">Operations</h3>
               <p className="body-2 mb-[3rem] text-n-3">
-              Connect teams and tools to streamline operations across siloed systems.
+              Connect tools and your organization with a single streamlined goal.
               </p>
               <ul className="body-2">
                 {brainmastertServices.map((item, index) => (

@@ -128,8 +128,8 @@ export const roadmap = [
   },
   {
     id: "3",
-    title: "Customer Experience",
-    text: "Deliver an exceptional customer journey with automation. Streamline onboarding, manage records efficiently, enforce SLAs, and optimize support workflows.",
+    title: "AI Agents",
+    text: "Educating our agents with all the tools so they can seamless wield the knowledge and perform tool execution like a Jedi.",
     date: "March 2024",
     status: "done",
     imageUrl: roadmap4,
@@ -137,7 +137,7 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "With smartest Agents working behind workflow execution it gives individuals and teams power to focus on their human resources.";
 
 export const collabContent = [
   {
@@ -254,7 +254,7 @@ export const benefits = [
   {
     id: "0",
     title: "Instant Execution",
-    text: "Design and deploy seamlessly—whether streamlining a single workflow or revolutionizing your entire business approach.",
+    text: " Prompt Quickly and Deploy - From just a prompt deploy simple to complex workflows and sit back. ",
     backgroundUrl: "./assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
