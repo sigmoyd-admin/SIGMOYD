@@ -11,30 +11,30 @@ const PricingList = () => {
           className="w-[19rem] max-lg:w-full h-full px-6 bg-n-8 border border-n-6 rounded-[2rem] lg:w-auto even:py-14 odd:py-8 odd:my-4 even:border-3 even:border-purple-500 [&>h3]:first:text-color-2 [&>h3]:even:text-color-1 [&>h3]:last:text-color-4"
         >
           <h3 className="h4 mb-4">{item.title}</h3>
-          <p className="body-2 min-h-[4rem] mb-3 text-n-1/50">
+          <p className="body-1 min-h-[4rem] mb-3 text-n-1/50">
             {item.description}
           </p>
-          <div className="flex items-center h-[5.5rem] mb-6 justify-center">
+          <div className="flex items-center h-[rem] mb-6 justify-center">
             {item.price && (
               <>
-                <div className="h3">$</div>
+                {/* <div className="h3">$</div>
                 <div className="text-[5.5rem] leading-none font-bold">
                   {item.price}
-                </div>
+                </div> */}
               </>
             )}
           </div>
-          <Button
+          {/* <Button
             className="w-full mb-6"
             href={
               item.price < 100
                 ? "#pricing"
-                : "mailto:contact@brainmaster.vercel.app"
+                : "mailto:contact@"
             }
             white={item.price < 100}
           >
             {item.price < 100 ? "Get started" : "Contact us"}
-          </Button>
+          </Button> */}
 
           <ul>
             {item.features.map((feature, index) => (

@@ -32,8 +32,8 @@ const Pricing = () => {
         </div>
         <Heading
           title="Realize your business’s full potential"
-          tag="Get started with Brain"
-          tagAccent="master"
+          tag="Get started with Sig"
+          tagAccent="moyd"
         />
         <div className="relative">
           <PricingList />

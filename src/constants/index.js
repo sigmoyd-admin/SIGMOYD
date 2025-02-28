@@ -103,8 +103,8 @@ export const brainmasterServicesIcons = [
 export const roadmap = [
   {
     id: "0",
-    title: "Marketing",
-    text: "Streamline your marketing efforts with automation—from lead management to personalized communications and CRM integration. Empower your team to work smarter, enhance engagement, and drive more value effortlessly.",
+    title: "TOOLS",
+    text: "Creating all the required tools you will need to empower your workflows. We are preparing tools so that you can benefit from abstraction provided by Sigmoyd AI.",
     date: "January 2024",
     status: "done",
     imageUrl: roadmap1,
@@ -112,32 +112,32 @@ export const roadmap = [
   },
   {
     id: "1",
-    title: "Information Technology",
-    text: "Maximize efficiency and scale effortlessly with automation—streamline incident management, integrate AI, and enhance team communication.",
+    title: "AI AGENTS",
+    text: "Educating our agents with all the tools so they can seamless wield the knowledge and perform tool execution like a Jedi.",
     date: "May 2024",
     status: "progress",
     imageUrl: roadmap2,
   },
   {
     id: "2",
-    title: "Sales",
-    text: "Accelerate revenue growth by automating lead management, outreach, data synchronization, reporting, and other essential sales tasks.",
+    title: "WHAT NEXT",
+    text: "Testing the capabilities of our agents to handle large workflow requirements to be able to handle complex flows much like you can.",
     date: "June 2024",
     status: "progress",
     imageUrl: roadmap3,
   },
-  {
-    id: "3",
-    title: "AI Agents",
-    text: "Educating our agents with all the tools so they can seamless wield the knowledge and perform tool execution like a Jedi.",
-    date: "March 2024",
-    status: "done",
-    imageUrl: roadmap4,
-  },
+  // {
+  //   id: "3",
+  //   title: "AI Agents",
+  //   text: "Educating our agents with all the tools so they can seamless wield the knowledge and perform tool execution like a Jedi.",
+  //   date: "March 2024",
+  //   status: "done",
+  //   imageUrl: roadmap4,
+  // },
 ];
 
 export const collabText =
-  "With smartest Agents working behind workflow execution it gives individuals and teams power to focus on their human resources.";
+  "With smart automation and top-notch security, it's the perfect solution for teams and or individuals , looking to work smarter.";
 
 export const collabContent = [
   {
@@ -217,35 +217,40 @@ export const collabApps = [
 export const pricing = [
   {
     id: "0",
-    title: "Basic",
-    description: "AI chatbot, personalized recommendations",
+    title: "Problem Statement",
+    description: "Building AI Agents Is Hard. Managing Workflows Is Even Harder.",
     price: "0",
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "Existing automation tools require coding knowledge.",
+      "Manual workflows are inefficient and time-consuming.",
+      "Lack of integration between AI and existing tools.",
+      "No transparency or monitoring in workflow execution.",
     ],
   },
   {
     id: "1",
-    title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
+    title: "Benefits",
+    description: "Why Sigmoyd ?  Here’s What You Get.",
     price: "9.99",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
-      "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "No-Code AI Automation – Build workflows with natural language.",
+      " Seamless Integrations – Connect 20+ apps & services.",
+      "️ Scalable & Customizable – Personalize agent behavior.",
+      "Real-time Monitoring – Track, modify, and optimize workflows.",
+      "Two AI Chats – One for workflows, another for quick actions.",
+      "️ Secure & Private – RAG collections ensure data privacy.",
     ],
   },
   {
     id: "2",
-    title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
-    price: "199",
+    title: " How It Works",
+    description: "A Step-by-Step Guide.",
+    price: "1",
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "Step 1: Describe your agent or workflow in a prompt.",
+      "Step 2: Choose triggers (manual, API, email, etc.)",
+      "Step 3: Add integrations like Gmail, Notion, LinkedIn, etc.",
+      "Step 4: Activate & monitor workflow execution in real-time.",
     ],
   },
 ];
@@ -253,7 +258,7 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Instant Execution",
+    title: "Instant Workflows",
     text: " Prompt Quickly and Deploy - From just a prompt deploy simple to complex workflows and sit back. ",
     backgroundUrl: "./assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
@@ -261,8 +266,8 @@ export const benefits = [
   },
   {
     id: "1",
-    title: "Evolve Every Day",
-    text: "Enhance workflows with AI and automation—Make’s intuitive platform empowers you to accelerate innovation effortlessly.",
+    title: "Faster Everyday",
+    text: "Enhance your work with AI and automation - Sigmoyd provides you access to all kinds of tools right at your prompt.",
     backgroundUrl: "./assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage3,
@@ -270,8 +275,8 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Seamless Connectivity",
-    text: "Leverage visual automation to collaborate, refine, and deploy workflows faster—wherever your team works.",
+    title: "Seamless Flow",
+    text: "Leverage Workflows to sit back and Watch - With visual workflow representation you can rely on Sigmoyd to reliably finish assignments",
     backgroundUrl: "./assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage4,

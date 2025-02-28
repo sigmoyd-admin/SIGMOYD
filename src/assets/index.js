@@ -1,7 +1,7 @@
-import brainmaster from "./sigmoyd_logo.svg";
+import sigmoyd from "./sigmoyd_logo.svg";
 import check from "./check.svg";
-import brainmasterSymbol from "./brainmaster-symbol.png";
-import brainmasterWhiteSymbol from "./brainmaster-symbol.png";
+import sigmoydSymbol from "./Sigmoyd-symbol.png";
+import sigmoydWhiteSymbol from "./Sigmoyd-symbol.png";
 import play from "./play.svg";
 import gradient from "./gradient.png";
 import smallSphere from "./4-small.png";
@@ -19,7 +19,6 @@ import disc02 from "./disc-02.svg";
 import chromecast from "./chrome-cast.svg";
 import sliders04 from "./sliders-04.svg";
 import loading from "./loading.png";
-import background from "./background.jpg";
 
 import curve from "./hero/curve.png";
 import robot from "./hero/Agents Are Coming Soon.png";
@@ -70,9 +69,6 @@ import benefitIcon4 from "./benefits/icon-4.svg";
 import benefitImage2 from "./benefits/image-2.jpg";
 import benefitImage3 from "./benefits/image-3.jpg";
 import benefitImage4 from "./benefits/image-4.jpg";
-import benefitImage5 from "./benefits/image-5.png";
-import benefitImage6 from "./benefits/image-6.png";
-import benefitImage7 from "./benefits/image-7.png";
 
 import discordBlack from "./socials/discord.svg";
 import facebook from "./socials/facebook.svg";
@@ -80,21 +76,13 @@ import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
-import companyLogo1 from "./companylogos/yourlogo-1.png";
-import companyLogo2 from "./companylogos/yourlogo-2.png";
-import companyLogo3 from "./companylogos/yourlogo-3.png";
-import companyLogo4 from "./companylogos/yourlogo-4.png";
-import companyLogo5 from "./companylogos/yourlogo-5.png";
-import companyLogo6 from "./companylogos/yourlogo-6.png";
-import companyLogo7 from "./companylogos/yourlogo-7.png";
-
 export {
-  brainmaster,
+  sigmoyd,
   check,
   check2,
   loading1,
-  brainmasterSymbol,
-  brainmasterWhiteSymbol,
+  sigmoydSymbol,
+  sigmoydWhiteSymbol,
   play,
   gradient,
   smallSphere,
@@ -154,19 +142,9 @@ export {
   benefitImage2,
   benefitImage3,
   benefitImage4,
-  benefitImage5,
-  benefitImage6,
-  benefitImage7,
   discordBlack,
   facebook,
   instagram,
   telegram,
   twitter,
-  companyLogo1,
-  companyLogo2,
-  companyLogo3,
-  companyLogo4,
-  companyLogo5,
-  companyLogo6,
-  companyLogo7
 };

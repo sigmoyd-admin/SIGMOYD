@@ -1,4 +1,4 @@
-import { brainmasterWhiteSymbol, gradient, play } from "../../assets";
+import { sigmoydWhiteSymbol, gradient, play } from "../../assets";
 import ChatBubbleWing from "../../assets/svg/ChatBubbleWing";
 
 export const Gradient = () => {
@@ -30,10 +30,10 @@ export const VideoChatMessage = () => {
       Hey !!!
       <div className="absolute left-5 -bottom-[1.125rem] flex items-center justify-center w-[2.25rem] h-[2.25rem] bg-color-1 rounded-[0.75rem]">
         <img
-          src={brainmasterWhiteSymbol}
+          src={sigmoydWhiteSymbol}
           width={26}
           height={26}
-          alt="Brainmaster symbol"
+          alt="symbol"
         />
       </div>
       <p className="tagline absolute right-2.5 bottom-1 text-[0.625rem] text-n-3 uppercase">
