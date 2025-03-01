@@ -66,6 +66,7 @@ import benefitIcon1 from "./benefits/icon-1.svg";
 import benefitIcon2 from "./benefits/icon-2.svg";
 import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
+
 import benefitImage2 from "./benefits/image-2.jpg";
 import benefitImage3 from "./benefits/image-3.jpg";
 import benefitImage4 from "./benefits/image-4.jpg";
@@ -98,7 +99,6 @@ export {
   chromecast,
   sliders04,
   loading,
-  background,
   curve,
   robot,
   heroBackground,

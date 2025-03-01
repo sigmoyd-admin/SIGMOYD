@@ -7,12 +7,6 @@ import {
   benefitImage3,
   benefitImage4,
   chromecast,
-  companyLogo1,
-  companyLogo2,
-  companyLogo3,
-  companyLogo4,
-  companyLogo5,
-  companyLogo7,
   disc02,
   discord,
   discordBlack,
@@ -78,12 +72,6 @@ export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
 export const notificationImages = [notification4, notification3, notification2];
 
 export const companyLogos = [
-  companyLogo2,
-  companyLogo3,
-  companyLogo4,
-  companyLogo5,
-  companyLogo1,
-  companyLogo7,
 ];
 
 export const brainmastertServices = [
