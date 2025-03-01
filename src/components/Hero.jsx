@@ -38,9 +38,9 @@ const Hero = () => {
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
           Unlock your full potential with Sigmoyd's prompt based easy-to-use no-code automation platform.
           </p>
-          <Button href="/pricing" white>
+          {/* <Button href="/" white>
             Get Started
-          </Button>
+          </Button> */}
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
           <div className="relative z-1 p-0.5 rounded-2xl bg-conic-gradient">
